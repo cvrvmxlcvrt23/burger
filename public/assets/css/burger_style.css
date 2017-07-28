@@ -1,0 +1,17 @@
+
+body {
+  background-color: grey;
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color: black;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: purple;
+}
